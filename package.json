@@ -16,7 +16,7 @@
     "author": "Mustafa Refaey <serefaey@gmail.com>",
     "license": "GPL-3",
     "dependencies": {
-        "elliptic": "^6.5.0",
+        "elliptic": "^6.5.3",
         "fastify": "^2.6.0",
         "hex-to-binary": "^1.0.1",
         "portscanner": "^2.2.0",
